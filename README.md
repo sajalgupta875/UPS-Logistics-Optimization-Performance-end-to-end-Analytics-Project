@@ -76,3 +76,45 @@ Data-driven route optimization
 Warehouse efficiency monitoring
 Performance benchmarking
 Executive-level operational visibility
+
+📊 Business Insights
+1. Route-Level Delay Concentration
+A small number of routes contribute disproportionately to overall delivery delays.
+This indicates route inefficiencies, possible traffic bottlenecks, or unrealistic delivery timelines.
+
+2. High-Volume Routes Drive Performance
+Routes with the highest order volumes have a significant impact on overall On-Time %.
+Improving performance on just a few high-volume routes can substantially increase overall efficiency.
+
+3. Warehouse Processing Influence
+Warehouse-level delay variation suggests that internal processing time may be affecting delivery timelines, not just transportation factors.
+
+4. Route Performance Correlation
+The scatter analysis revealed a clear relationship between average delay and on-time performance — routes with higher delays consistently show lower On-Time %.
+
+5. Agent Performance is Route-Driven
+Agent performance trends indicate that outcomes are largely influenced by route conditions rather than individual agent variation.
+
+🚀 Strategic Recommendations
+1. Optimize High-Impact Routes First
+Prioritize operational improvements on high-volume, high-delay routes to maximize performance gains.
+
+2. Re-evaluate SLA Expectations
+Review expected delivery timelines on consistently delayed routes to ensure they align with real-world traffic conditions.
+
+3. Warehouse Process Optimization
+Conduct operational audits on underperforming warehouses to identify bottlenecks in order processing.
+
+4. Route Segmentation Strategy
+Classify routes into:
+Low Risk (High On-Time, Low Delay)
+Moderate Risk
+High Risk (High Delay, Low On-Time)
+Allocate resources dynamically based on risk category.
+
+5. Data-Driven Performance Monitoring
+Implement continuous KPI tracking for:
+On-Time %
+Average Delay
+Route Volume
+Warehouse Efficiency
